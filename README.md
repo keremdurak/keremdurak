@@ -10,3 +10,10 @@
 </p>
 
 </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/keremdurak/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
+
+
+
+</p>
